@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "238336707396",
+    "project_id": "first-firebase-64a32",
+    "storage_bucket": "first-firebase-64a32.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:238336707396:android:a8789e8c8124df0cbe6511",
+        "android_client_info": {
+          "package_name": "com.buliderbobapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "238336707396-heu8i3pfsjg01l4ilapepcok5pifr8gu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARsNYhe26VACC4DLevyXGj2IpOs4cMMB4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "238336707396-heu8i3pfsjg01l4ilapepcok5pifr8gu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
